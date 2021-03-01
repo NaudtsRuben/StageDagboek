@@ -4,7 +4,21 @@ Hierbij vooral Azure IoT Hub, Azure Functions en Azure Logic Apps.
 De eerste dag was vooral inleiding en uitleg over de stage. Vervolgens kreeg ik een paar handleidingen die ik kon volgen
 om bekend te geraken met het Azure platform. Daarna mocht ik hiermee wat zelfstandig experimenteren.
 
-Enkele kleine projecten die ik deze week werwezenlijkt heb zijn:
+Maandag 22/2:
+Deze dag bestond vooral uit introductie. Ik kreeg informatie over de stage zelf, de platformen die gebruikt werden en hoe de rest van mijn week er ging uit zien.
+
+Dinsdag 23/2:
+Op dinsdag heb ik vooral met Azure Functions gewerkt. Ik leerde het Azure platform beter kennen en heb enkele functies gemaakt in visual studio code.
+
+Woensdag 24/2:
+Dit was een vrije dag. Normaal valt deze op maandag maar uitzonderlijk werd deze verplaatst omdat maandag de startdag was van de stage.
+
+Donderdag 25/2:
+Donderdag heb ik me vooral bezig gehouden rond logic apps. Het lukte vrij vlot om deze onder de knie te krijgen dus ik kon dan al snel gaan experimenteren.
+
+Enkele kleine projecten die ik op donderdag gemaakt heb zijn:
     - Een HTTP-trigger die een naam meekrijgt in de body, deze dan wegschrijft in een queue. Hierna wordt deze queue dan  gecontroleerd en de inhoud via mail verstuurd.
     - Een Listener op mijn mailbox die de inhoud van deze mail als JSON format en deze dan in Discord laat weergeven.
-    - 
+
+Vrijdag 26/2:
+Op vrijdag heb ik me meer verdiept in Azure IoT Hub. Ook heb ik onderzoek gedaan naar OPC UA op IoT Edge in Azure.
