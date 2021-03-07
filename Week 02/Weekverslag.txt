@@ -1,0 +1,21 @@
+Week 2 van mijn stage bestond, net als week 1, uit het leren werken met het Microsoft Azure platform. Ook was er op donderdag en vrijdag de 
+Delaware Student Game waardoor op deze dagen de stage wegviel. Het was dus een vrij korte werkweek waarbij er enkel op dinsdag en woensdag 
+effectief voor de stage gewerkt werd.
+
+Dinsdag 02/03:
+Deze dag begon met een korte vergadering waarbij er gepolsd werd hoe ver ik stond en ik zelf ook mijn vragen kon stellen. Er werd hier besloten
+dat ik me best verder kon bezig houden met de Azure IoT-hub beter te leren gebruiken. Ik heb dan verschillende experimenten uitgevoerd waarbij ik data
+naar de IoT-hub stuurde en deze dan ook verder verwerkte.
+
+woensdag 03/03:
+Op woensdag heb ik me ook nog verder bijgeschoold rond de IoT-hub. Ook heb ik onderzoek gedaan naar het MQTT en SSL aangezien dit ook handig zou zijn voor de stage.
+
+Donderdag 04/03:
+Dit was de eerste dag van de Delaware Student Game. Op deze dag kregen we uitleg over de casus die we gingen behandelen en leerde ik mijn teamleden en coach kennen.
+De opdracht was om een systeem te ontwikkelen voor NMBS waarbij men een vrij accuraat beeld kreeg van de drukte buiten een treinstation. Op donderdag hebben we
+voornamelijk gebrainstormed rond eventuele oplossingen voor dit probleem.
+
+Vrijdag 05/03:
+Op vrijdag werd de casus dan volledig uitgewerkt. iteindelijk hebben we een idee uitgewerkt waarbij men a.d.h.v. Bluetooth en Wi-Fi sensoren, de locatie 
+van smartphones buiten het station kon registreren. Deze data kon daarna dan in een simulatie verwerkt worden om te anticiperen waar deze reizigers naartoe gingen.
+Om 17u hebben we dit idee dan gepitcht voor de jury. Mijn team viel spijtig genoeg niet in de prijzen maar het was nog steeds een zeer leuke ervaring.
