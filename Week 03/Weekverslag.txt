@@ -1,0 +1,13 @@
+In week 3 van de stage werd de stageopdracht toegelicht waaraan ik de komende maanden zal werken. Dit is een proof of concept voor Magotteaux. Zij willen dat de data van hun sensoren lokaal en in de cloud kan worden opgeslagen. Het schema van de architectuur die ik zal uitwerken kan u hier vinden (https://prnt.sc/10keps4). Op dit moment heb ik stap 1 t.e.m. 5 afgewerkt. Ik kan nu data simuleren in een edge device en deze doorsturen naar de IoT hub waarna deze wordt opgeslagen in de blobstorage. Voor volgende weken zal ik werken aan een lokale manier om deze data te kunnen tonen d.m.v. influxDB en grafana (6 & 7) en een custom module die de data lokaal kan opslaan voor het geval dat er geen netwerkverbinding zou zijn, bijvoorbeeld bij een storing (8 & 9). Wanneer er dan terug een verbinding is wordt deze dan alsnog opgestuurd.
+
+Dinsdag 09/03
+De dag begon met een korte vergadering. Hierin evalueerden we de vorige week en kreeg ik ook mijn stageopdracht te horen. Voor de rest van de dag heb ik hier dan aan gewerkt. Op dinsdag heb ik de IoT hub, de container registry en een edge device opgezet.
+
+Woensdag 10/03
+Op Woensdag heb ik onderzoek gedaan naar IoT edge in azure en docker. In de namiddag was er een follow up over de stageopdracht. Hieruit werd besloten dat ik me de komende dagen best bezig zou houden met te leren werken met docker.
+
+Donderdag 11/03
+Donderdag heb ik me dan proberen bijscholen rond docker d.m.v. tutorials en de documentatie. Ik heb leren werken met de belangrijkste docker commands, concepten als images, containers en docker compose en deze achteraf ook uitgeprobeerd met enkele voorbeeldprojecten.
+
+Vrijdag 12/03
+Op vrijdagochtend heb ik nog wat verder gekeken naar docker. Ook heb ik 's ochtends de blobstorage op azure opgezet en getest. De data kan nu vanaf de temperatuursimulator in de database worden opgeslagen. In de namiddag was er terug een follow-up over de stageopdracht met Jaro. Daar werd besproken dat ik me nu kan bezighouden met de influxDB en grafana toe te voegen of te beginnen aan de custom module. Ik heb besloten om me eerst te richten op influxDB en grafana aangezien ik daarvan misschien nog wat kan bijleren voordat ik zelf een module ga maken.
